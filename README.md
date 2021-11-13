@@ -13,6 +13,7 @@ Este proyecto consiste en un modelo de sistema de información que soporte la ge
 - [Carlos Meza](#Carlos-Meza)
 - [Andres Guarin](#Andres-Guarin)
 - [Angie Castro](#Angie-Castro)
+- [Mileydi Aparicio](#Mileydi-Aparicio)
 
 ## Presentación Miembros CodeFighter
 
@@ -47,3 +48,8 @@ Estudiante de  Ciencias de la Computación en la Universidad Nacional. Actualmen
 Economista de la Univesidad Nacional de Colombia, aprendiz del mundo de la programación y el desarrollo de sofware.
 </p>
 
+### [Mileydi Aparicio](https://github.com/mileydi25)
+
+<p align="justify">
+Ingeneiro de Sistemas de la universidad de Investigación y Desarrollo UDI de la ciudad de Bucaramanga/Santander, SQL, QA.
+</p>

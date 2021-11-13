@@ -12,6 +12,7 @@ Este proyecto consiste en un modelo de sistema de información que soporte la ge
 - [Juan Arboleda](#juan-arboleda)
 - [Carlos Meza](#Carlos-Meza)
 - [Andres Guarin](#Andres-Guarin) 
+- [Angie Castro](#Angie-Castro) 
 ## Presentación Miembros CodeFighter
 
 ### [Cesar Mesa](https://github.com/cesarmesa23)

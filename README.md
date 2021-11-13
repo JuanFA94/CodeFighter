@@ -11,8 +11,9 @@ Este proyecto consiste en un modelo de sistema de información que soporte la ge
 - [Cesar Mesa](#cesar-mesa)
 - [Juan Arboleda](#juan-arboleda)
 - [Carlos Meza](#Carlos-Meza)
-- [Andres Guarin](#Andres-Guarin) 
-- [Angie Castro](#Angie-Castro) 
+- [Andres Guarin](#Andres-Guarin)
+- [Angie Castro](#Angie-Castro)
+
 ## Presentación Miembros CodeFighter
 
 ### [Cesar Mesa](https://github.com/cesarmesa23)
@@ -43,4 +44,6 @@ Estudiante de  Ciencias de la Computación en la Universidad Nacional. Actualmen
 ### [Angie Castro](https://github.com/Angiecas)
 
 <p align="justify">
-Economista de la Universidad Nacional de Colombia, iniciando en el mundo de la programación y el desarrollo de sofware</p>
+Economista de la Univesidad Nacional de Colombia, aprendiz del mundo de la programación y el desarrollo de sofware.
+</p>
+

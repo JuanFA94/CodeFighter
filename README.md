@@ -11,6 +11,7 @@ Este proyecto consiste en un modelo de sistema de información que soporte la ge
 - [Cesar Mesa](#cesar-mesa)
 - [Juan Arboleda](#juan-arboleda)
 - [Carlos Meza](#Carlos-Meza)
+- [Andres Guarin](#Andres-Guarin) 
 ## Presentación Miembros CodeFighter
 
 ### [Cesar Mesa](https://github.com/cesarmesa23)
@@ -30,4 +31,10 @@ Tiene estudios iniciados de física pura en la Universidad de Antioquia, trabaja
 
 <p align="justify">
 Ingeneiro de Sistemas de la universidad de Investigación y Desarrollo UDI de la ciudad de Bucaramanga/Santander, reside en la ciudad de Bogotá.
+</p>
+
+### [Andres Guarin](https://github.com/Agua-bit)
+
+<p align="justify">
+Estudiante de  Ciencias de la Computación en la Universidad Nacional. Actualmente estudio programación de forma intensiva para convertirme en Full Stack Developer
 </p>

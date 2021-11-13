@@ -38,3 +38,8 @@ Ingeneiro de Sistemas de la universidad de Investigación y Desarrollo UDI de la
 <p align="justify">
 Estudiante de  Ciencias de la Computación en la Universidad Nacional. Actualmente estudio programación de forma intensiva para convertirme en Full Stack Developer
 </p>
+
+### [Angie Castro](https://github.com/Angiecas)
+
+<p align="justify">
+Economista de la Universidad Nacional de Colombia, iniciando en el mundo de la programación y el desarrollo de sofware</p>

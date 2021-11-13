@@ -10,10 +10,10 @@ Este proyecto consiste en un modelo de sistema de información que soporte la ge
 
 - [Cesar Mesa](#cesar-mesa)
 - [Juan Arboleda](#juan-arboleda)
-
+- [Carlos Meza](#Carlos-Meza)
 ## Presentación Miembros CodeFighter
 
-### [Cesar Augusto Mesa Castaño](https://github.com/cesarmesa23)
+### [Cesar Mesa](https://github.com/cesarmesa23)
 
 <p align="justify">
 Ingeniero de Sistemas Y Computacion de la Universidad del Quindio. Conocimientos en lenjuages de programacion SQL, PLSQL, JAVA, PHP.
@@ -23,4 +23,11 @@ Ingeniero de Sistemas Y Computacion de la Universidad del Quindio. Conocimientos
 
 <p align="justify">
 Tiene estudios iniciados de física pura en la Universidad de Antioquia, trabaja de forma independiente dando clases, vive en la ciudad de medellín.
+</p>
+
+
+### [Carlos Meza](https://github.com/CarlosMezai)
+
+<p align="justify">
+Ingeneiro de Sistemas de la universidad de Investigación y Desarrollo UDI de la ciudad de Bucaramanga/Santander, reside en la ciudad de Bogotá.
 </p>
